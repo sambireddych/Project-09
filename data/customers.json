@@ -1,0 +1,14 @@
+[
+    {
+        "_id": 1,
+        "email": "S534046@nwmissouri.edu",
+        "given": "Sambi",
+        "family": "Chanimella",
+        "street1": "1121 N Drive",
+        "street2": "APT 13",
+        "city": "Maryville",
+        "state":"MO",
+        "zip": 64468,
+        "country": "USA"
+    }
+]
