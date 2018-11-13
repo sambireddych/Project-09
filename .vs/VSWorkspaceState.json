@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\data",
+    "\\public\\css",
+    "\\public\\images",
+    "\\public\\js"
   ],
-  "SelectedNode": "\\app.js",
+  "SelectedNode": "\\public",
   "PreviewInSolutionExplorer": false
 }
