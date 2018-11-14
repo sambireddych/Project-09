@@ -61,10 +61,10 @@ module.exports = (app) => {
 
     // insert the sample data into our data store
     db.orders.insert(orders)
-
+    // added by Roshan Thalals
     // initialize app.locals (these objects will be available to our controllers)
     app.locals.orders = db.orders.find(orders)
-   // LOG.debug(`${app.locals.orders.query.length} orders seeded`)
+    LOG.debug(`${app.locals.orders.query.length} orders seeded`)
 
     // Each Order Line Item needs a product and an order...................
 

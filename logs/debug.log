@@ -36,3 +36,23 @@
 2018-11-14T03:13:14.864Z - debug: 5 products seeded
 2018-11-14T03:13:14.869Z - debug: 3 orderLineItems seeded
 2018-11-14T03:13:14.870Z - info: END Seeder. Sample data read and verified.
+2018-11-14T03:31:03.281Z - info: Environment variables loaded.
+2018-11-14T03:31:03.295Z - debug: START routing
+2018-11-14T03:31:03.296Z - debug: END routing
+2018-11-14T03:31:03.296Z - info: Loaded routing.
+2018-11-14T03:31:03.329Z - info: START seeder.
+2018-11-14T03:31:03.333Z - debug: 4 customers seeded
+2018-11-14T03:31:03.336Z - debug: 5 products seeded
+2018-11-14T03:31:03.341Z - debug: 3 orders seeded
+2018-11-14T03:31:03.343Z - debug: 3 orderLineItems seeded
+2018-11-14T03:31:03.343Z - info: END Seeder. Sample data read and verified.
+2018-11-14T03:36:12.002Z - info: Environment variables loaded.
+2018-11-14T03:36:12.013Z - debug: START routing
+2018-11-14T03:36:12.014Z - debug: END routing
+2018-11-14T03:36:12.014Z - info: Loaded routing.
+2018-11-14T03:36:12.054Z - info: START seeder.
+2018-11-14T03:36:12.057Z - debug: 4 customers seeded
+2018-11-14T03:36:12.059Z - debug: 5 products seeded
+2018-11-14T03:36:12.060Z - debug: 4 orders seeded
+2018-11-14T03:36:12.064Z - debug: 3 orderLineItems seeded
+2018-11-14T03:36:12.064Z - info: END Seeder. Sample data read and verified.

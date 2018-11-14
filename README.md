@@ -2,4 +2,4 @@
 
 Sambi Reddy Chanimella -- (Customer,OrderLineItem - view, controller, model)
 Sandeep Devineni -- (product-view,controller,model,data)
-Roshan Thalal
+Roshan Thalal -- (Order-view, controller, model, data)

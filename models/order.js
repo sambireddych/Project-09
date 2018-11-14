@@ -2,7 +2,7 @@
 *  Order model
 *  Describes the characteristics of each attribute in an order resource.
 *
-* @author Sambi Reddy Chanimella <S534046@nwmissouri.edu>
+* @author RoshanThalal<S527998@nwmissouri.edu>
 *
 */
 
