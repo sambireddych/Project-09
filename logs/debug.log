@@ -317,3 +317,23 @@ Error: Cannot find module '../controllers/about.js'
 2018-11-13T21:18:22.399Z - debug: GET /contact
 2018-11-13T21:18:57.635Z - debug: GET /contact
 2018-11-13T21:18:58.161Z - debug: GET /images/favicon-32x32.png
+2018-11-14T02:10:31.703Z - info: Environment variables loaded.
+2018-11-14T02:10:31.768Z - debug: START routing
+2018-11-14T02:10:31.768Z - debug: END routing
+2018-11-14T02:10:31.768Z - info: Loaded routing.
+2018-11-14T02:10:31.866Z - info: START seeder.
+2018-11-14T02:10:31.871Z - debug: 4 customers seeded
+2018-11-14T02:10:31.874Z - debug: 4 products seeded
+2018-11-14T02:10:31.877Z - debug: 3 orders seeded
+2018-11-14T02:10:31.880Z - debug: 3 orderLineItems seeded
+2018-11-14T02:10:31.880Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:10:33.654Z - info: Environment variables loaded.
+2018-11-14T02:10:33.664Z - debug: START routing
+2018-11-14T02:10:33.665Z - debug: END routing
+2018-11-14T02:10:33.665Z - info: Loaded routing.
+2018-11-14T02:10:33.714Z - info: START seeder.
+2018-11-14T02:10:33.717Z - debug: 4 customers seeded
+2018-11-14T02:10:33.720Z - debug: 4 products seeded
+2018-11-14T02:10:33.721Z - debug: 3 orders seeded
+2018-11-14T02:10:33.724Z - debug: 3 orderLineItems seeded
+2018-11-14T02:10:33.724Z - info: END Seeder. Sample data read and verified.
