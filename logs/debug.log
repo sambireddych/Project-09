@@ -337,3 +337,399 @@ Error: Cannot find module '../controllers/about.js'
 2018-11-14T02:10:33.721Z - debug: 3 orders seeded
 2018-11-14T02:10:33.724Z - debug: 3 orderLineItems seeded
 2018-11-14T02:10:33.724Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:25:13.935Z - info: Environment variables loaded.
+2018-11-14T02:25:13.952Z - debug: START routing
+2018-11-14T02:25:13.952Z - debug: END routing
+2018-11-14T02:25:13.953Z - info: Loaded routing.
+2018-11-14T02:25:14.005Z - info: START seeder.
+2018-11-14T02:25:14.009Z - debug: 4 customers seeded
+2018-11-14T02:25:14.013Z - debug: 4 products seeded
+2018-11-14T02:25:14.016Z - debug: 3 orders seeded
+2018-11-14T02:25:14.019Z - debug: 3 orderLineItems seeded
+2018-11-14T02:25:14.019Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:25:50.775Z - info: Environment variables loaded.
+2018-11-14T02:25:50.792Z - debug: START routing
+2018-11-14T02:25:50.793Z - debug: END routing
+2018-11-14T02:25:50.793Z - info: Loaded routing.
+2018-11-14T02:25:50.860Z - info: START seeder.
+2018-11-14T02:25:50.867Z - debug: 4 customers seeded
+2018-11-14T02:25:50.873Z - debug: 4 products seeded
+2018-11-14T02:25:50.876Z - debug: 3 orders seeded
+2018-11-14T02:25:50.880Z - debug: 3 orderLineItems seeded
+2018-11-14T02:25:50.880Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:25:55.005Z - info: Environment variables loaded.
+2018-11-14T02:25:55.026Z - debug: START routing
+2018-11-14T02:25:55.027Z - debug: END routing
+2018-11-14T02:25:55.027Z - info: Loaded routing.
+2018-11-14T02:25:55.099Z - info: START seeder.
+2018-11-14T02:25:55.109Z - debug: 4 customers seeded
+2018-11-14T02:25:55.113Z - debug: 4 products seeded
+2018-11-14T02:25:55.116Z - debug: 3 orders seeded
+2018-11-14T02:25:55.120Z - debug: 3 orderLineItems seeded
+2018-11-14T02:25:55.120Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:26:00.283Z - info: Environment variables loaded.
+2018-11-14T02:26:00.300Z - debug: START routing
+2018-11-14T02:26:00.300Z - debug: END routing
+2018-11-14T02:26:00.301Z - info: Loaded routing.
+2018-11-14T02:26:00.362Z - info: START seeder.
+2018-11-14T02:26:00.368Z - debug: 4 customers seeded
+2018-11-14T02:26:00.373Z - debug: 4 products seeded
+2018-11-14T02:26:00.377Z - debug: 3 orders seeded
+2018-11-14T02:26:00.381Z - debug: 3 orderLineItems seeded
+2018-11-14T02:26:00.381Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:26:11.844Z - info: Environment variables loaded.
+2018-11-14T02:26:11.866Z - debug: START routing
+2018-11-14T02:26:11.867Z - debug: END routing
+2018-11-14T02:26:11.868Z - info: Loaded routing.
+2018-11-14T02:26:11.958Z - info: START seeder.
+2018-11-14T02:26:11.967Z - debug: 4 customers seeded
+2018-11-14T02:26:11.974Z - debug: 4 products seeded
+2018-11-14T02:26:11.978Z - debug: 3 orders seeded
+2018-11-14T02:26:11.982Z - debug: 3 orderLineItems seeded
+2018-11-14T02:26:11.982Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:26:17.306Z - info: Environment variables loaded.
+2018-11-14T02:26:17.325Z - debug: START routing
+2018-11-14T02:26:17.326Z - debug: END routing
+2018-11-14T02:26:17.326Z - info: Loaded routing.
+2018-11-14T02:26:17.403Z - info: START seeder.
+2018-11-14T02:26:17.411Z - debug: 4 customers seeded
+2018-11-14T02:26:17.415Z - debug: 4 products seeded
+2018-11-14T02:26:17.419Z - debug: 3 orders seeded
+2018-11-14T02:26:17.422Z - debug: 3 orderLineItems seeded
+2018-11-14T02:26:17.422Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:27:34.145Z - info: Environment variables loaded.
+2018-11-14T02:27:34.314Z - error: uncaughtException: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503 date=Tue Nov 13 2018 20:27:34 GMT-0600 (Central Standard Time), pid=6108, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=66764800, heapTotal=62730240, heapUsed=36076016, external=19503734, loadavg=[0, 0, 0], uptime=618268
+SyntaxError: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503
+    at JSON.parse (<anonymous>)
+    at Object.Module._extensions..json (internal/modules/cjs/loader.js:708:27)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\utils\seeder.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+2018-11-14T02:27:34.169Z - debug: START routing
+2018-11-14T02:27:34.171Z - debug: END routing
+2018-11-14T02:27:34.171Z - info: Loaded routing.
+2018-11-14T02:28:06.065Z - info: Environment variables loaded.
+2018-11-14T02:28:06.195Z - error: uncaughtException: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503 date=Tue Nov 13 2018 20:28:06 GMT-0600 (Central Standard Time), pid=23528, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=69181440, heapTotal=61157376, heapUsed=38021752, external=19857622, loadavg=[0, 0, 0], uptime=618300
+SyntaxError: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503
+    at JSON.parse (<anonymous>)
+    at Object.Module._extensions..json (internal/modules/cjs/loader.js:708:27)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\utils\seeder.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+2018-11-14T02:28:06.082Z - debug: START routing
+2018-11-14T02:28:06.082Z - debug: END routing
+2018-11-14T02:28:06.083Z - info: Loaded routing.
+2018-11-14T02:28:11.785Z - info: Environment variables loaded.
+2018-11-14T02:28:11.922Z - error: uncaughtException: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503 date=Tue Nov 13 2018 20:28:11 GMT-0600 (Central Standard Time), pid=19624, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=63877120, heapTotal=63778816, heapUsed=33602336, external=19020724, loadavg=[0, 0, 0], uptime=618306
+SyntaxError: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503
+    at JSON.parse (<anonymous>)
+    at Object.Module._extensions..json (internal/modules/cjs/loader.js:708:27)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\utils\seeder.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+2018-11-14T02:28:11.804Z - debug: START routing
+2018-11-14T02:28:11.805Z - debug: END routing
+2018-11-14T02:28:11.805Z - info: Loaded routing.
+2018-11-14T02:28:20.379Z - info: Environment variables loaded.
+2018-11-14T02:28:20.554Z - error: uncaughtException: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503 date=Tue Nov 13 2018 20:28:20 GMT-0600 (Central Standard Time), pid=13648, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=66805760, heapTotal=62205952, heapUsed=36415792, external=19571666, loadavg=[0, 0, 0], uptime=618315
+SyntaxError: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503
+    at JSON.parse (<anonymous>)
+    at Object.Module._extensions..json (internal/modules/cjs/loader.js:708:27)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\utils\seeder.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+2018-11-14T02:28:20.399Z - debug: START routing
+2018-11-14T02:28:20.399Z - debug: END routing
+2018-11-14T02:28:20.399Z - info: Loaded routing.
+2018-11-14T02:29:26.510Z - info: Environment variables loaded.
+2018-11-14T02:29:26.570Z - error: uncaughtException: Invalid or unexpected token date=Tue Nov 13 2018 20:29:26 GMT-0600 (Central Standard Time), pid=26372, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=63717376, heapTotal=63254528, heapUsed=32059080, external=18833673, loadavg=[0, 0, 0], uptime=618381
+C:\Users\S533620\44563\project-09\utils\seeder.js:48
+@author 
+^
+
+SyntaxError: Invalid or unexpected token
+    at new Script (vm.js:79:7)
+    at createScript (vm.js:251:10)
+    at Object.runInThisContext (vm.js:303:10)
+    at Module._compile (internal/modules/cjs/loader.js:657:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:279:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:752:3)
+2018-11-14T02:29:26.527Z - debug: START routing
+2018-11-14T02:29:26.528Z - debug: END routing
+2018-11-14T02:29:26.528Z - info: Loaded routing.
+2018-11-14T02:29:30.973Z - info: Environment variables loaded.
+2018-11-14T02:29:31.033Z - error: uncaughtException: Invalid or unexpected token date=Tue Nov 13 2018 20:29:30 GMT-0600 (Central Standard Time), pid=18940, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=65323008, heapTotal=62730240, heapUsed=34627184, external=19320859, loadavg=[0, 0, 0], uptime=618385
+C:\Users\S533620\44563\project-09\utils\seeder.js:48
+@author Sandeep Devineni
+^
+
+SyntaxError: Invalid or unexpected token
+    at new Script (vm.js:79:7)
+    at createScript (vm.js:251:10)
+    at Object.runInThisContext (vm.js:303:10)
+    at Module._compile (internal/modules/cjs/loader.js:657:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:279:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:752:3)
+2018-11-14T02:29:30.991Z - debug: START routing
+2018-11-14T02:29:30.992Z - debug: END routing
+2018-11-14T02:29:30.992Z - info: Loaded routing.
+2018-11-14T02:29:38.002Z - info: Environment variables loaded.
+2018-11-14T02:29:38.074Z - error: uncaughtException: Unexpected identifier date=Tue Nov 13 2018 20:29:38 GMT-0600 (Central Standard Time), pid=24148, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=65675264, heapTotal=62205952, heapUsed=34726704, external=19320859, loadavg=[0, 0, 0], uptime=618392
+C:\Users\S533620\44563\project-09\utils\seeder.js:48
+ Sandeep Devineni
+         ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at new Script (vm.js:79:7)
+    at createScript (vm.js:251:10)
+    at Object.runInThisContext (vm.js:303:10)
+    at Module._compile (internal/modules/cjs/loader.js:657:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:279:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:752:3)
+2018-11-14T02:29:38.024Z - debug: START routing
+2018-11-14T02:29:38.025Z - debug: END routing
+2018-11-14T02:29:38.025Z - info: Loaded routing.
+2018-11-14T02:29:44.675Z - info: Environment variables loaded.
+2018-11-14T02:29:44.803Z - error: uncaughtException: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503 date=Tue Nov 13 2018 20:29:44 GMT-0600 (Central Standard Time), pid=25924, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=66727936, heapTotal=62205952, heapUsed=36093960, external=19524819, loadavg=[0, 0, 0], uptime=618399
+SyntaxError: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503
+    at JSON.parse (<anonymous>)
+    at Object.Module._extensions..json (internal/modules/cjs/loader.js:708:27)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\utils\seeder.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+2018-11-14T02:29:44.689Z - debug: START routing
+2018-11-14T02:29:44.689Z - debug: END routing
+2018-11-14T02:29:44.689Z - info: Loaded routing.
+2018-11-14T02:29:52.311Z - info: Environment variables loaded.
+2018-11-14T02:29:52.436Z - error: uncaughtException: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503 date=Tue Nov 13 2018 20:29:52 GMT-0600 (Central Standard Time), pid=25952, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=66854912, heapTotal=62205952, heapUsed=36092728, external=19503734, loadavg=[0, 0, 0], uptime=618406
+SyntaxError: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503
+    at JSON.parse (<anonymous>)
+    at Object.Module._extensions..json (internal/modules/cjs/loader.js:708:27)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\utils\seeder.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+2018-11-14T02:29:52.329Z - debug: START routing
+2018-11-14T02:29:52.330Z - debug: END routing
+2018-11-14T02:29:52.330Z - info: Loaded routing.
+2018-11-14T02:29:56.403Z - info: Environment variables loaded.
+2018-11-14T02:29:56.532Z - error: uncaughtException: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503 date=Tue Nov 13 2018 20:29:56 GMT-0600 (Central Standard Time), pid=22240, uid=null, gid=null, cwd=C:\Users\S533620\44563\project-09, execPath=C:\Program Files\nodejs\node.exe, version=v10.11.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\S533620\44563\project-09\app.js], rss=66174976, heapTotal=62730240, heapUsed=35335424, external=19351790, loadavg=[0, 0, 0], uptime=618411
+SyntaxError: C:\Users\S533620\44563\project-09\data\products.json: Unexpected token { in JSON at position 503
+    at JSON.parse (<anonymous>)
+    at Object.Module._extensions..json (internal/modules/cjs/loader.js:708:27)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\utils\seeder.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\S533620\44563\project-09\app.js:73:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+2018-11-14T02:29:56.427Z - debug: START routing
+2018-11-14T02:29:56.428Z - debug: END routing
+2018-11-14T02:29:56.428Z - info: Loaded routing.
+2018-11-14T02:30:31.180Z - info: Environment variables loaded.
+2018-11-14T02:30:31.190Z - debug: START routing
+2018-11-14T02:30:31.190Z - debug: END routing
+2018-11-14T02:30:31.190Z - info: Loaded routing.
+2018-11-14T02:30:31.226Z - info: START seeder.
+2018-11-14T02:30:31.234Z - debug: 4 customers seeded
+2018-11-14T02:30:31.240Z - debug: 5 products seeded
+2018-11-14T02:30:31.244Z - debug: 3 orders seeded
+2018-11-14T02:30:31.246Z - debug: 3 orderLineItems seeded
+2018-11-14T02:30:31.246Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:33:23.773Z - info: Environment variables loaded.
+2018-11-14T02:33:23.791Z - debug: START routing
+2018-11-14T02:33:23.792Z - debug: END routing
+2018-11-14T02:33:23.792Z - info: Loaded routing.
+2018-11-14T02:33:23.857Z - info: START seeder.
+2018-11-14T02:33:23.867Z - debug: 5 products seeded
+2018-11-14T02:33:23.871Z - debug: 3 orders seeded
+2018-11-14T02:33:23.875Z - debug: 3 orderLineItems seeded
+2018-11-14T02:33:23.875Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:33:31.429Z - info: Environment variables loaded.
+2018-11-14T02:33:31.447Z - debug: START routing
+2018-11-14T02:33:31.448Z - debug: END routing
+2018-11-14T02:33:31.448Z - info: Loaded routing.
+2018-11-14T02:33:31.514Z - info: START seeder.
+2018-11-14T02:33:31.524Z - debug: 5 products seeded
+2018-11-14T02:33:31.528Z - debug: 3 orders seeded
+2018-11-14T02:33:31.535Z - debug: 3 orderLineItems seeded
+2018-11-14T02:33:31.535Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:33:38.784Z - info: Environment variables loaded.
+2018-11-14T02:33:38.801Z - debug: START routing
+2018-11-14T02:33:38.802Z - debug: END routing
+2018-11-14T02:33:38.802Z - info: Loaded routing.
+2018-11-14T02:33:38.871Z - info: START seeder.
+2018-11-14T02:33:38.882Z - debug: 5 products seeded
+2018-11-14T02:33:38.895Z - debug: 3 orderLineItems seeded
+2018-11-14T02:33:38.895Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:33:43.675Z - info: Environment variables loaded.
+2018-11-14T02:33:43.695Z - debug: START routing
+2018-11-14T02:33:43.696Z - debug: END routing
+2018-11-14T02:33:43.697Z - info: Loaded routing.
+2018-11-14T02:33:43.780Z - info: START seeder.
+2018-11-14T02:33:43.792Z - debug: 5 products seeded
+2018-11-14T02:33:43.799Z - info: END Seeder. Sample data read and verified.
+2018-11-14T02:58:16.774Z - info: Environment variables loaded.
+2018-11-14T02:58:16.784Z - debug: START routing
+2018-11-14T02:58:16.784Z - debug: END routing
+2018-11-14T02:58:16.784Z - info: Loaded routing.
+2018-11-14T02:58:16.823Z - info: START seeder.
+2018-11-14T02:58:16.826Z - debug: 4 customers seeded
+2018-11-14T02:58:16.828Z - debug: 4 products seeded
+2018-11-14T02:58:16.830Z - debug: 3 orders seeded
+2018-11-14T02:58:16.833Z - debug: 3 orderLineItems seeded
+2018-11-14T02:58:16.833Z - info: END Seeder. Sample data read and verified.
