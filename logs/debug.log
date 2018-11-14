@@ -1,0 +1,38 @@
+2018-11-14T03:12:12.495Z - info: Environment variables loaded.
+2018-11-14T03:12:12.532Z - debug: START routing
+2018-11-14T03:12:12.544Z - debug: END routing
+2018-11-14T03:12:12.544Z - info: Loaded routing.
+2018-11-14T03:12:12.608Z - info: START seeder.
+2018-11-14T03:12:12.651Z - debug: 5 products seeded
+2018-11-14T03:12:12.664Z - info: END Seeder. Sample data read and verified.
+2018-11-14T03:12:15.592Z - info: Environment variables loaded.
+2018-11-14T03:12:15.605Z - debug: START routing
+2018-11-14T03:12:15.607Z - debug: END routing
+2018-11-14T03:12:15.607Z - info: Loaded routing.
+2018-11-14T03:12:15.663Z - info: START seeder.
+2018-11-14T03:12:15.680Z - debug: 5 products seeded
+2018-11-14T03:12:15.693Z - info: END Seeder. Sample data read and verified.
+2018-11-14T03:12:27.453Z - info: Environment variables loaded.
+2018-11-14T03:12:27.469Z - debug: START routing
+2018-11-14T03:12:27.470Z - debug: END routing
+2018-11-14T03:12:27.470Z - info: Loaded routing.
+2018-11-14T03:12:27.519Z - info: START seeder.
+2018-11-14T03:12:27.528Z - debug: 5 products seeded
+2018-11-14T03:12:27.533Z - info: END Seeder. Sample data read and verified.
+2018-11-14T03:13:08.270Z - info: Environment variables loaded.
+2018-11-14T03:13:08.287Z - debug: START routing
+2018-11-14T03:13:08.288Z - debug: END routing
+2018-11-14T03:13:08.288Z - info: Loaded routing.
+2018-11-14T03:13:08.347Z - info: START seeder.
+2018-11-14T03:13:08.355Z - debug: 4 customers seeded
+2018-11-14T03:13:08.359Z - debug: 5 products seeded
+2018-11-14T03:13:08.367Z - info: END Seeder. Sample data read and verified.
+2018-11-14T03:13:14.794Z - info: Environment variables loaded.
+2018-11-14T03:13:14.805Z - debug: START routing
+2018-11-14T03:13:14.806Z - debug: END routing
+2018-11-14T03:13:14.806Z - info: Loaded routing.
+2018-11-14T03:13:14.853Z - info: START seeder.
+2018-11-14T03:13:14.859Z - debug: 4 customers seeded
+2018-11-14T03:13:14.864Z - debug: 5 products seeded
+2018-11-14T03:13:14.869Z - debug: 3 orderLineItems seeded
+2018-11-14T03:13:14.870Z - info: END Seeder. Sample data read and verified.
