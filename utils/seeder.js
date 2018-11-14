@@ -39,13 +39,13 @@ module.exports = (app) => {
 
     // initialize app.locals (these objects will be available to our controllers)
     app.locals.customers = db.customers.find(customers)
-    LOG.debug(`${app.locals.customers.query.length} customers seeded`)
+    //LOG.debug(`${app.locals.customers.query.length} customers seeded`)
 
     // Products don't depend on anything else ...............
 
     db.products = new Datastore()
     db.products.loadDatabase()
-
+// Edited by Sandeep Devineni(product)
     // insert the sample data into our data store
     db.products.insert(products)
 
@@ -64,7 +64,7 @@ module.exports = (app) => {
 
     // initialize app.locals (these objects will be available to our controllers)
     app.locals.orders = db.orders.find(orders)
-    LOG.debug(`${app.locals.orders.query.length} orders seeded`)
+   // LOG.debug(`${app.locals.orders.query.length} orders seeded`)
 
     // Each Order Line Item needs a product and an order...................
 
@@ -76,7 +76,7 @@ module.exports = (app) => {
 
     // initialize app.locals (these objects will be available to our controllers)
     app.locals.orderLineItems = db.orderLineItems.find(orderLineItems)
-    LOG.debug(`${app.locals.orderLineItems.query.length} orderLineItems seeded`)
+   // LOG.debug(`${app.locals.orderLineItems.query.length} orderLineItems seeded`)
 
 
     LOG.info('END Seeder. Sample data read and verified.')
