@@ -2,7 +2,7 @@
 *  Product model
 *  Describes the characteristics of each attribute in a customer resource.
 *
-* @author Sambi Reddy Chanimella <S534046@nwmissouri.edu>
+* @author Sandeep Devineni <S533620@nwmissouri.edu>
 *
 */
 
