@@ -1,11 +1,11 @@
 {
-  "name": "Project-Group 09",
+  "name": "order-here",
   "version": "0.0.1",
-  "description": "ECommerce",
+  "description": "Node Express MVC EJS Bootstrap Starter app",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/sambireddych/project-09"
+    "url": "https://bitbucket.org/sambireddych/project-09/"
   },
   "license": "Apache-2.0",
   "engines": {
@@ -42,7 +42,8 @@
     "request": "^2.83.0",
     "serve-favicon": "^2.4.5",
     "twit": "^2.2.9",
-    "winston": "^2.4.0"
+    "winston": "^2.4.0",
+    "mailgun-js": "latest"
   },
   "scripts": {
     "start": "node app.js"

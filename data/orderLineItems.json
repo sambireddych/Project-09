@@ -1,16 +1,23 @@
 [
-    {
-        "_id": 1,
-        "orderID": 87452,
-        "lineNumber": 1,
-        "productKey": "Coffee Mug",
-        "quantity" : 1
-    },
-    {
-        "_id": 2,
-        "orderID": 87452,
-        "lineNumber": 2,
-        "productKey": "Tshirt",
-        "quantity" : 1
-    }
+  {
+    "_id": 1,
+    "orderID": 88485,
+    "lineNumber": 1,
+    "productKey": "Apple XS Max",
+    "quantity": 1
+  },
+  {
+    "_id": 2,
+    "orderID": 87452,
+    "lineNumber": 2,
+    "productKey": "Apple XS",
+    "quantity": 1
+  },
+  {
+    "_id": 3,
+    "orderID": 87452,
+    "lineNumber": 2,
+    "productKey": "Samsung Note 9",
+    "quantity": 1
+  }
 ]

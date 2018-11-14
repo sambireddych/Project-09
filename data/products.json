@@ -1,14 +1,26 @@
 [
-    {
-        "_id": 1,
-        "productKey": "Coffee Mug",
-        "description": "Best mug ever!",
-        "unitPrice": 9.99
-    },
-    {
-        "_id": 2,
-        "productKey": "Tshirt",
-        "description": "Even better shirt",
-        "unitPrice": 24.99
-    }
+  {
+    "_id": 1,
+    "productKey": "Apple XS",
+    "description": "Letest Iphone!",
+    "unitPrice": 999.99
+  },
+  {
+    "_id": 2,
+    "productKey": "Apple XS MAX",
+    "description": "The Beast",
+    "unitPrice": 1024.99
+  },
+  {
+    "_id": 1,
+    "productKey": "Samsung Note 9",
+    "description": "Best Android Phone Ever!",
+    "unitPrice": 899.99
+  },
+  {
+    "_id": 2,
+    "productKey": "Apple Mac Mini",
+    "description": "Pocket Mac",
+    "unitPrice": 1224.99
+  }
 ]

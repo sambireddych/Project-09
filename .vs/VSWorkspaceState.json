@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\data",
-    "\\public\\css",
-    "\\public\\images",
-    "\\public\\js"
+    "\\routes",
+    "\\utils",
+    "\\views"
   ],
-  "SelectedNode": "\\public",
+  "SelectedNode": "\\views\\header.ejs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,14 +1,50 @@
 [
-    {
-        "_id": 1,
-        "email": "S534046@nwmissouri.edu",
-        "given": "Sambi",
-        "family": "Chanimella",
-        "street1": "1121 N Drive",
-        "street2": "APT 13",
-        "city": "Maryville",
-        "state":"MO",
-        "zip": 64468,
-        "country": "USA"
-    }
+  {
+    "_id": 1,
+    "email": "S534046@nwmissouri.edu",
+    "given": "Sambi",
+    "family": "Chanimella",
+    "street1": "1121 N Drive",
+    "street2": "APT 13",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA"
+  },
+  {
+    "_id": 1,
+    "email": "S534046@nwmissouri.edu",
+    "given": "Roshan",
+    "family": "Thalal",
+    "street1": "1121 N Drive",
+    "street2": "APT 26",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA"
+  },
+  {
+    "_id": 1,
+    "email": "S534046@nwmissouri.edu",
+    "given": "Sandeep",
+    "family": "Devineni",
+    "street1": "1121 N Drive",
+    "street2": "APT 69",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA"
+  },
+  {
+    "_id": 1,
+    "email": "S534046@nwmissouri.edu",
+    "given": "Pradeep",
+    "family": "Kolli",
+    "street1": "1121 N Drive",
+    "street2": "APT 56",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA"
+  }
 ]

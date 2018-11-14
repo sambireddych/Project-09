@@ -16,11 +16,11 @@ module.exports = (app) => {
     LOG.info('START seeder.')
     const db = {}
 
-    db.puppies = new Datastore()
-    db.puppies.loadDatabase()
+   // db.puppies = new Datastore()
+    //db.puppies.loadDatabase()
 
     // insert the sample data into our data store
-    db.puppies.insert(puppies)
+    //db.puppies.insert(puppies)
 
     // initialize app.locals (these objects will be available to our controllers)
    // app.locals.puppies = db.puppies.find(puppies)
